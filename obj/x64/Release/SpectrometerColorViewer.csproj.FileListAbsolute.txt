@@ -1,0 +1,10 @@
+D:\BACKUP\GitHub Calismalar\SpectrometerColorViewer\bin\x64\Release\SpectrometerColorViewer.exe.config
+D:\BACKUP\GitHub Calismalar\SpectrometerColorViewer\bin\x64\Release\SpectrometerColorViewer.exe
+D:\BACKUP\GitHub Calismalar\SpectrometerColorViewer\bin\x64\Release\SpectrometerColorViewer.pdb
+D:\BACKUP\GitHub Calismalar\SpectrometerColorViewer\obj\x64\Release\SpectrometerColorViewer.csproj.AssemblyReference.cache
+D:\BACKUP\GitHub Calismalar\SpectrometerColorViewer\obj\x64\Release\SpectrometerColorViewer.Form1.resources
+D:\BACKUP\GitHub Calismalar\SpectrometerColorViewer\obj\x64\Release\SpectrometerColorViewer.Properties.Resources.resources
+D:\BACKUP\GitHub Calismalar\SpectrometerColorViewer\obj\x64\Release\SpectrometerColorViewer.csproj.GenerateResource.cache
+D:\BACKUP\GitHub Calismalar\SpectrometerColorViewer\obj\x64\Release\SpectrometerColorViewer.csproj.CoreCompileInputs.cache
+D:\BACKUP\GitHub Calismalar\SpectrometerColorViewer\obj\x64\Release\SpectrometerColorViewer.exe
+D:\BACKUP\GitHub Calismalar\SpectrometerColorViewer\obj\x64\Release\SpectrometerColorViewer.pdb
